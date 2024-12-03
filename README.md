@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains my progress and learnings through a series of 10 C++ modules. These modules progressively introduce essential programming concepts and advanced features of the 
-C###  language, focusing on object-oriented programming (OOP), memory management, and the Standard Template Library (STL). Below is a summary of the topics covered and **skills acquired through these modules.
+C++ language, focusing on object-oriented programming (OOP), memory management, and the Standard Template Library (STL). Below is a summary of the topics covered and skills acquired through these modules.
 
 ## Warning for 42 Students
 
