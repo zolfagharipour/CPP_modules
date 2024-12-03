@@ -8,7 +8,7 @@ C###  language, focusing on object-oriented programming (OOP), memory management
 ## Module 00: C++ Basics
 
 ### Key Concepts:
-	Namespaces, classes, member functions, initialization lists, const, and static members.
++ Namespaces, classes, member functions, initialization lists, const, and static members.
 
 ### Skills Acquired:
 - Writing and compiling basic C++ programs.
