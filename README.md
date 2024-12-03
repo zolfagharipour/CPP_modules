@@ -4,11 +4,14 @@
 This repository contains my progress and learnings through a series of 10 C++ modules. These modules progressively introduce essential programming concepts and advanced features of the 
 C###  language, focusing on object-oriented programming (OOP), memory management, and the Standard Template Library (STL). Below is a summary of the topics covered and **skills acquired through these modules.
 
+## Warning for 42 Students
+
+This repository is intended as a reference and educational tool. **42 students are strongly advised not to copy this code without fully understanding its functionality.** Plagiarism in any form is against 42's principles and could lead to serious academic consequences. Use this repository responsibly to learn and better understand how to implement similar functionalities on your own.
 
 ## Module 00: C++ Basics
 
 ### Key Concepts:
-+ Namespaces, classes, member functions, initialization lists, const, and static members.
+ Namespaces, classes, member functions, initialization lists, const, and static members.
 
 ### Skills Acquired:
 - Writing and compiling basic C++ programs.
