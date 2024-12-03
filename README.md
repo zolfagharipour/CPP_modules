@@ -2,8 +2,9 @@
 This repository contains my progress and learnings through a series of 10 C++ modules. These modules progressively introduce essential programming concepts and advanced features of the C++ language, focusing on object-oriented programming (OOP), memory management, and the Standard Template Library (STL). Below is a summary of the topics covered and ***skills acquired*** through these modules.
 
 ## Modules Overview
-***Module 00***: C++ Basics
-***Key Concepts***: Namespaces, classes, member functions, initialization lists, const, and static members.
+**Module 00**: C++ Basics
+***Key Concepts***: 
+	Namespaces, classes, member functions, initialization lists, const, and static members.
 ***Skills Acquired***:
 - Writing and compiling basic C++ programs.
 - Understanding object-oriented basics and encapsulation.
