@@ -7,6 +7,7 @@ This repository contains my progress and learnings through a series of 10 C++ mo
 ## Module 00: C++ Basics
 
 **Key Concepts**: Namespaces, classes, member functions, initialization lists, const, and static members.
+
 **Skills Acquired**:
 - Writing and compiling basic C++ programs.
 - Understanding object-oriented basics and encapsulation.
